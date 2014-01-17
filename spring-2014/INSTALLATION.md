@@ -12,6 +12,8 @@ The main programming language we'll be working in is Python. If you're using a M
 
 This is the primary database manager we'll be using. Everyone should already have it installed, even if you don't know it. But if you want to be sure, feel free to install [Firefox](http://www.mozilla.org/en-US/firefox/new/). It comes with SQLite included.
 
+You also may want to install [SQLite Manager](https://addons.mozilla.org/en-US/firefox/addon/sqlite-manager/), an extension for Firefox. It makes browsing SQLite databases much easier, plus it's free.
+
 ## easy_install and pip
 
 To make our lives easier, Python comes with two package management tools, which allow us to install new packages that extend Python's core functionality. You'll probably need some help getting these up and running, but here are some basic instructions:
