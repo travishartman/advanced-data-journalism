@@ -1,4 +1,4 @@
-# Django installation requirements
+# Class software requirements
 
 Below is a list of the key software you'll need for the advanced data journalism class this semester, along with some resources offering tips about how to get it installed. You'll receive in-class help getting everything up and running during the first couple weeks.
 
@@ -36,3 +36,7 @@ Libraries we'll be using include:
 Github is the primary service most open source programmers use to store and share their code. We'll also be using it to turn in assignments. You'll need to both install the Github client on your local machine and sign up for a free account.
 
 Instructions on getting started can be found here: https://help.github.com/articles/set-up-git
+
+## Tools that will make your lives easier
+
+A good text editor and command-line terminal can make your life a whole lot easier. I'd recommend [SublimeText 2](http://www.sublimetext.com/2) for your text editor, and (if you're on a Mac) [iTerm2](http://www.iterm2.com/#/section/home) for your terminal. You'll see me use both in class.
