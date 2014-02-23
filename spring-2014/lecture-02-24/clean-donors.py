@@ -7,6 +7,7 @@ script should do four things:
 
 - Make sure every text field is in a consistent case (upper, lower or title)
 - Be sure amounts are represented as floats, not integers or strings
+- Be sure the ZIP codes are represented as strings, not integers
 - Fix the &nbsp; characters in the city field (which are HTML representations of spaces)
 by turning them back into actual spaces
 - Save the cleaned output back into a list of lists, where you can think of the outer
@@ -22,7 +23,6 @@ Hint: Use print statements to check your input and output at various stages of t
 It's helpful to watch, a step at a time, how your code affects the input as it moves through
 your program.
 '''
-
 
 # This opens the input file and splits it into lines of strings. You'll want to
 # remember this for the future -- you'll be using it a lot.
